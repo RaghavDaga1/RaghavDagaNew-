@@ -2,7 +2,7 @@
 
 ## About the project
 
-The project provides an easier way for a user to order food online.
+The project provides an easier way for a user to order food online\n
 Provides a handy usage to user to order the food desired.
 
 ### Features of the project
