@@ -14,7 +14,7 @@
 #### The assigned integer is printed on the screen and the user needs to press that indicated integer to proceed further
 
 ## Features of the project
-#### 1.)The user can order multiple order at a time or one order multiple times
+#### 1.)The user can order multiple dishes at one time or one dish multiple times
 #### 2.)The program performs a search on the available data and determines whether the customer is ordering for the first time or is a repeated customer
 #### 3.)The program displays the bill of the food ordered with details of the customer such as name and phone number and updates the quantities with their total price accordingly
 #### 4.)The program updates the quantities accordingly if the customer orders one dish multiple times
