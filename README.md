@@ -2,8 +2,8 @@
 
 ## About the project
 
-The project provides an easier way for a user to order food online\n
-Provides a handy usage to user to order the food desired.
+#### The project provides an easier way for a user to order food online.
+#### Provides a handy usage to user to order the food desired.
 
 ### Features of the project
 1.)The user can order multiple order at a time or one order multiple times
