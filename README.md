@@ -17,7 +17,7 @@
 #### 1.)The user can order multiple dishes at one time or one dish multiple times
 #### 2.)The program performs a search on the available data and determines whether the customer is ordering for the first time or is a repeated customer
 #### 3.)The program displays the bill of the food ordered with details of the customer such as name and phone number and updates the quantities with their total price accordingly
-#### 4.)The program updates the quantities accordingly if the customer orders one dish multiple times
+#### 4.)The program updates the quantities accordingly if the customer orders one dish multiple times and that dish is printed only once with the updated quantity on the bill 
 #### 5.)The program gives discount to first time user and prints the final price accordingly
 
 #### The sample bill for a new customer looks like:
